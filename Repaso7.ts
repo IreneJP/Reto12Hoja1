@@ -8,8 +8,11 @@ function nombresM(nombres:string[]) {
              result = true
             }else {
             result = false
+            break;
             }
+        
         i++
+        
     }
     console.log(result)
 }

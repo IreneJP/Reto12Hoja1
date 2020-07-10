@@ -8,6 +8,7 @@ function nombresM(nombres) {
         }
         else {
             result = false;
+            break;
         }
         i++;
     }
